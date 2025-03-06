@@ -3,5 +3,6 @@
 333
 
 ---	feture ---
-non fast merge
-+1
+666
+777
+888
